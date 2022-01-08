@@ -5,7 +5,13 @@
 </p>
 
  ### Languages and Tools </br>
- <img align="left" alt="VSC" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/twlai251/twlai251/blob/main/icon_img/Visual_Studio_Code.png" alt="VSC" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
  
  </br>
  
