@@ -16,7 +16,6 @@
  - <img align="center" src="https://github.com/twlai251/twlai251/blob/main/icon_img/html_pic.png" alt="HTML" height="20" width="20" /> HTML5 / <img align="center" src="https://github.com/twlai251/twlai251/blob/main/icon_img/css.png" alt="CSS" height="20" width="20" /> CSS3
  - <img align="center" src="https://github.com/twlai251/twlai251/blob/main/icon_img/js.png" alt="HTML" height="20" width="20" /> JavaScript
 
-
 <p>
 📫 How to reach me: twlai251@gmail.com or <a href="https://www.linkedin.com/in/teddie-lai/" target="blank" text-decoration="none">My LinkedIn</a> 
 </p>
